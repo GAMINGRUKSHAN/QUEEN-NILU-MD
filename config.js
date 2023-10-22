@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;0j43xYrT#jmZ072GFHSuMdCchcv5RQ9gshmv7Cx0PBf3TsFVvjo8' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://rukshanmd_user:BjrVZFYhn8nJqRDDNlOzY0mIHekRpLgo@dpg-ckpnir05vl2c73bp9160-a.frankfurt-postgres.render.com/rukshanmd'
 
 
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94742420974'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'MR KING MD'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -33,7 +33,7 @@ global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'false' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false " 
 
 global.OPENAI_API_KEY = "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" 
 
@@ -41,13 +41,13 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'MR KING BOT'
 
 global.FOOTER = 'Queen Nilu 2023'
 
-global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '@rukamd 🤹‍♂️' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -63,7 +63,7 @@ global.MAX_SIZE = '500' // Bot Uloading Max size
 
 global.ANTI_BAD = true // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true 
 
 global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
